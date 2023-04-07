@@ -23,6 +23,13 @@ class Lingkaran {
     static int getJumlahLingkaran() {
         return jumlahLingkaran;
     }
+
+    public void setJariJari(double d) {
+    }
+
+    public String getJariJari() {
+        return null;
+    }
 }
 
 public class Main {

@@ -95,7 +95,7 @@ public class KaryawanDemo {
                 if (kata.length > 2 && i > 1) {
                     sb.append(kata[i].charAt(0));
                 } else {
-                    sb.append(" ").append(kata[i].charAt(0)).append(".");
+                    sb.append(" ").append(kata[i].charAt(0)).append("."); 
                 }
             }
         }
